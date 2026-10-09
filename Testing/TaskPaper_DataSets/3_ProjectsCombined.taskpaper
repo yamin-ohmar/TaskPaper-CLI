@@ -1,0 +1,103 @@
+Interim Report:
+	- Aims & Objectives @due(2024-10-12)
+		- Define the purpose @start(2024-10-08)
+		- List down the steps to achieve it @start(2024-10-10)
+	- Literature Survey / Background Research @due(2024-10-25)
+		- Aiming for 5 researches @optional
+			- 1st literature research @start(2024-10-14)
+			- 2nd literature research @start(2024-10-16)
+			- 3rd literature research @start(2024-10-18)
+			- 4th literature research @start(2024-10-21)
+			- 5th literature research @start(2024-10-23)
+	- Requirements @due(2024-10-27)
+		- List down software requirements for the project @start(2024-10-25)
+	- Specification and Design @due(2024-11-02)
+		- Draw up a high-level overview of architecture of the system @start(2024-10-28)
+		- Decide on algorithms and data structures @start(2024-10-30)
+	- Planning (Gantt Chart) @due(2024-11-09)
+		- Semester 1 detailed planning @start(2024-11-04)
+		- Semester 2 sketch planning @start(2024-11-06)
+	- Conclusion @due(2024-11-13) @optional
+	- Submission @due(2024-11-22) @priority(high)
+		- Send to supervisor for proof reading @start(2024-11-15)
+		- Submit @start(2024-11-21)
+
+TaskPaper Command Line Tool:
+	- Week 1 @due(2024-10-05) @done
+		- understand the project description @done
+		- 1st meeting with supervisor @done
+	- Week 2 @due(2024-10-12)
+		- roughly plan for interim report writing @done
+		- familiarise with TaskPaper file format @start(2024-10-06) @done
+		- Interim Report Writing @documentation @start
+			- define the purpose of the project @start(2024-10-08) @done
+			- Background research @start(2024-10-09)
+				- Read up on similar projects @done
+				- Read up on some command-line tool knowledge sharing @done
+	- Week 3 @due(2024-10-19)
+		- literature survey @start(2024-10-15) @done
+			(aiming for 2 literatures / sources for this week) @note
+		- meeting with supervisor @waiting @done
+	- Week 4 @due(2024-10-26)
+		- continue with literature survey @continue @done
+			(aiming for 3 more literatures / sources for this week) @note
+		- Objectives: list down the steps to achieve the project aim @start(2024-10-24) @done
+	- Week 5 @due(2024-11-02)
+		- list down software requirements for the project @start(2024-10-28)
+		- high-level overview of the architecture of the system @start(2024-10-30)
+			(it could be a diagram) @note
+		- meeting with supervisor @Monday
+	- Week 6 @due(2024-11-09)
+		- decide on algorithms and data structures @start(2024-11-03)
+		- create Gantt chart with milestones and tasks @start(2024-11-07)
+			(detailed plan for Sem1 and sketch for Sem2) @note
+	- Week 7 @due(2024-11-16)
+		- Interim Report Writing @continue
+			- send to supervisor for proofreading @due(2024-11-15)
+		- meeting with supervisor @Monday
+	- Week 8 @due(2024-11-23) @readingweek
+		- Finalize interim report @continue
+		- Interim Report submission @due(2024-11-22)
+			- submit Interim Report @start(2024-11-21)
+	- Week 9 @due(2024-11-30)
+		- create TaskPaper datasets @start(2024-11-24)
+		- kick start on developing command line tool @start(2024-11-27)
+			(in Semester 1, only basic functionalities and features will be developed) @note
+			- File Management on (.taskpaper) file extension @functionality
+				- creating new (.taskpaper) file @feature
+		- meeting with supervisor @Monday
+	- Week 10 @due(2024-12-07)
+		- Querying @functionality
+			- listing projects @feature
+			- listing tasks under a project @feature
+			- listing subtasks under a task @feature
+	- Week 11 @due(2024-12-14)
+		- Querying @continue
+		- Documentation on running the project @documentation
+		(in Readme.md file) @note
+		- meeting with supervisor @Monday
+	- Week 12 @due(2024-12-21) @holiday
+		- Task Management @functionality
+			- Add projects @feature
+			- Add tasks to a project @feature
+			- Add subtasks to a task of a project @feature
+			- Edit tasks @feature
+			- Move tasks @feature
+			- Delete tasks @feature
+	- Week 13 @due(2024-12-28) @holiday
+		- Task Management @continue
+	- Week 14 @due(2025-01-04) @holiday
+		- Tag Management @functionality
+			- Add tags to tasks @feature
+			- Edit tags @feature
+			- Remove tags @feature
+	- Week 15 @due(2025-01-11) @holiday
+		- Filtering @functionality
+			- filter by tags @feature
+			- filter by due date @feature
+	- Week 16 @due(2025-01-18) @holiday
+		- Help & Documentation @functionality
+			- Documentation on commands @documentation
+			(list them down in usage.md file) @note
+			- Help @feature
+			(list all the commands and what they do) @note

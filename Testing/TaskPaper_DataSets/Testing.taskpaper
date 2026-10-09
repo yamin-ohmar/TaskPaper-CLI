@@ -1,0 +1,27 @@
+CLI Tool Development:
+	- Coding @high @done @tpcli
+	- Documentations @medium @done
+	- Unit Testing @done @tpcli
+	- Manual Testing @due(2025-04-10) @tpcli
+	- Release @due(2025-04-11) @tpcli
+	- Submission @due(2025-05-02) @high @tpcli
+
+Dissertation:
+	- Abstract @due(2025-10-27) @last @low @tpcli
+	- Introduction @due(2025-04-14) @done @tpcli
+	- Literature Survey @due(2025-04-17) @tpcli @inprogress
+		- Literature Survey on 3 existing tools @high
+		- Literature Survey on 3 information sources @Completed @tpcli
+	- Design & Implementation @due(2025-04-24) @tpcli @inprogress
+	- Results & Discussion (Observations & Analysis) @due(2025-04-27) @tpcli @inprogress
+		- user reviews @medium @tpcli
+		- evaluations & testing results @priority(medium) @tpcli
+	- Critical Appraisal @due(2025-04-30) @tpcli @inprogress
+	- Conclusion @due(2025-05-01) @tpcli
+	- Submission @due(2025-05-02) @high @tpcli
+
+Personal:
+	- Write poems @hobby @due(2025-05-30)
+	- Do journaling @hobby @medium @due(2025-05-10)
+	- Write novel @due(2025-05-20) @high @hobby
+	- Work on TaskPaper CLI project @tpcli @high

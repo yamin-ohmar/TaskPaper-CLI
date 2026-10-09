@@ -1,0 +1,1119 @@
+Interim Report:
+	- Aims & Objectives @today @high @done
+		- Define the purpose @start(2024-10-08)
+		- List down the steps to achieve it @start(2024-10-10)
+	- Literature Survey / Background Research  @due(2024-10-25)
+		- Aiming for 5 researches @opt @priority(low)
+			- 1st literature research @due(2025-03-25)
+			- 2nd literature research @start(2024-10-16) @TBC
+			- 3rd literature research @due(2025-03-24)
+			- 4th literature research @start(2024-10-21)
+			- 5th literature research @due(2024-10-23)
+	- Requirements @due(2025-10-27) @medium
+		- List down software requirements for the project @start(2024-10-25)
+	- Specification and Design @due(2024-11-02) @today @finiSHed
+		- Draw up a high-level overview of architecture of the system @start(2024-10-28)
+		- Decide on algorithms and data structures @start(2024-10-30)
+	- Planning (Gantt Chart) @due(2024-11-09) @finish @priority
+		- Semester 1 detailed planning @start(2024-11-04)
+		- Semester 2 sketch planning @start(2024-11-06)
+	- Conclusion @due(2024-11-13) @today @done
+	- Submission @due(2025-11-22) @priority(high) @TBC
+		- Send to supervisor for proof reading @due(2025-03-22) @dueTmr
+		- Submit @start(2025-11-21)
+	- Semester 2 sketch planning @start(2024-11-06)
+
+Work Report:
+	- Requirements @due(2025-10-27) @done @today
+		- List down software requirements for the project @start(2024-10-25) @Today @done
+	- Specification and Design @due(2025-03-30)
+		- Decide on algorithms and data structures @start(2024-10-30) @Completed
+	- Planning (Gantt Chart) @due(2024-11-09) @low @TBC
+		- Semester 1 detailed planning @due(2025-04-07)
+	- Conclusion @due(2024-11-13) @FinisHed @done
+
+Help:
+	- Requirements @due(2025-10-27) @done @today
+	- Submit @start(2025-11-21) @due(2025-03-09)
+	- Submission @due(2025-11-22) @priority(high) @due(2025-3-7)
+		- Send to supervisor for proof reading @start(2024-11-15) @Done
+
+Interim:
+	- Aims & Objectives @today @high @done
+		- Define the purpose @start(2024-10-08)
+		- List down the steps to achieve it @start(2024-10-10)
+	- Literature Survey / Background Research  @due(2024-10-25)
+		- Aiming for 5 researches @opt @priority(low)
+			- 1st literature research @due(2025-03-25)
+			- 2nd literature research @start(2024-10-16) @TBC
+			- 3rd literature research @due(2025-03-24)
+			- 4th literature research @start(2024-10-21)
+			- 5th literature research @due(2024-10-23)
+	- Requirements @due(2025-10-27) @medium
+		- List down software requirements for the project @start(2024-10-25)
+	- Specification and Design @due(2024-11-02) @today @finiSHed
+		- Draw up a high-level overview of architecture of the system @start(2024-10-28)
+		- Decide on algorithms and data structures @start(2024-10-30)
+	- Planning (Gantt Chart) @due(2024-11-09) @finish @priority
+		- Semester 1 detailed planning @start(2024-11-04)
+		- Semester 2 sketch planning @start(2024-11-06)
+	- Conclusion @due(2024-11-13) @today @done
+	- Submission @due(2025-11-22) @priority(high) @TBC
+		- Send to supervisor for proof reading @due(2025-03-22) @dueTmr
+		- Submit @start(2025-11-21)
+	- Semester 2 sketch planning @start(2024-11-06)
+
+Report:
+	- Requirements @due(2025-10-27) @done @today
+		- List down software requirements for the project @start(2024-10-25) @Today @done
+	- Specification and Design @due(2025-03-30)
+		- Decide on algorithms and data structures @start(2024-10-30) @Completed
+	- Planning (Gantt Chart) @due(2024-11-09) @low @TBC
+		- Semester 1 detailed planning @due(2025-04-07)
+	- Conclusion @done
+
+Hi:
+	- Requirements @due(2025-10-27) @done @today
+	- Submit @start(2025-11-21) @due(2025-03-09)
+	- Submission @due(2025-11-22) @priority(high) @due(2025-3-7)
+		- Send to supervisor for proof reading @start(2024-11-15) @Done
+
+Project A:
+	- Aims & Objectives @today @high @done
+		- Define the purpose @start(2024-10-08)
+		- List down the steps to achieve it @start(2024-10-10)
+	- Literature Survey / Background Research  @due(2024-10-25)
+		- Aiming for 5 researches @opt @priority(low)
+			- 1st literature research @due(2025-03-25)
+			- 2nd literature research @start(2024-10-16) @TBC
+			- 3rd literature research @due(2025-03-24)
+			- 4th literature research @start(2024-10-21)
+			- 5th literature research @due(2024-10-23)
+	- Requirements @due(2025-10-27) @medium
+		- List down software requirements for the project @start(2024-10-25)
+	- Specification and Design @due(2024-11-02) @today @finiSHed
+		- Draw up a high-level overview of architecture of the system @start(2024-10-28)
+		- Decide on algorithms and data structures @start(2024-10-30)
+	- Planning (Gantt Chart) @due(2024-11-09) @finish @priority
+		- Semester 1 detailed planning @start(2024-11-04)
+		- Semester 2 sketch planning @start(2024-11-06)
+	- Conclusion @due(2024-11-13) @today @done
+	- Submission @due(2025-11-22) @priority(high) @TBC
+		- Send to supervisor for proof reading @due(2025-03-22) @dueTmr
+		- Submit @start(2025-11-21)
+	- Semester 2 sketch planning @start(2024-11-06)
+
+Project B:
+	- Requirements @due(2025-10-27) @done @today
+		- List down software requirements for the project @start(2024-10-25) @Today @done
+	- Specification and Design @due(2025-03-30)
+		- Decide on algorithms and data structures @start(2024-10-30) @Completed
+	- Planning (Gantt Chart) @due(2024-11-09) @low @TBC
+		- Semester 1 detailed planning @due(2025-04-07)
+	- Conclusion @due(2024-11-13) @FinisHed @done
+
+Project:
+	- Requirements @due(2025-10-27) @done @today
+	- Submit @start(2025-11-21) @due(2025-03-09)
+	- Submission @due(2025-11-22) @priority(high) @due(2025-3-7)
+		- Send to supervisor for proof reading @start(2024-11-15) @Done
+
+A Project:
+	- Aims & Objectives @today @high @done
+		- Define the purpose @start(2024-10-08)
+		- List down the steps to achieve it @start(2024-10-10)
+	- Literature Survey / Background Research  @due(2024-10-25)
+		- Aiming for 5 researches @opt @priority(low)
+			- 1st literature research @due(2025-03-25)
+			- 2nd literature research @start(2024-10-16) @TBC
+			- 3rd literature research @due(2025-03-24)
+			- 4th literature research @start(2024-10-21)
+			- 5th literature research @due(2024-10-23)
+	- Requirements @due(2025-10-27) @medium
+		- List down software requirements for the project @start(2024-10-25)
+	- Specification and Design @due(2024-11-02) @today @finiSHed
+		- Draw up a high-level overview of architecture of the system @start(2024-10-28)
+		- Decide on algorithms and data structures @start(2024-10-30)
+	- Planning (Gantt Chart) @due(2024-11-09) @finish @priority
+		- Semester 1 detailed planning @start(2024-11-04)
+		- Semester 2 sketch planning @start(2024-11-06)
+	- Conclusion @due(2024-11-13) @today @done
+	- Submission @due(2025-11-22) @priority(high) @TBC
+		- Send to supervisor for proof reading @due(2025-03-22) @dueTmr
+		- Submit @start(2025-11-21)
+	- Semester 2 sketch planning @start(2024-11-06)
+
+Hello:
+	- Requirements @due(2025-10-27) @done @today
+		- List down software requirements for the project @start(2024-10-25) @Today @done
+	- Specification and Design @due(2025-03-30)
+		- Decide on algorithms and data structures @start(2024-10-30) @Completed
+	- Planning (Gantt Chart) @due(2024-11-09) @low @TBC
+		- Semester 1 detailed planning @due(2025-04-07)
+	- Conclusion @due(2024-11-13) @FinisHed @done
+
+World:
+	- Requirements @due(2025-10-27) @done @today
+	- Submit @start(2025-11-21) @due(2025-03-09)
+	- Submission @due(2025-11-22) @priority(high) @due(2025-3-7)
+		- Send to supervisor for proof reading @start(2024-11-15) @Done
+
+The Report:
+	- Aims & Objectives @today @high @done
+		- Define the purpose @start(2024-10-08)
+		- List down the steps to achieve it @start(2024-10-10)
+	- Literature Survey / Background Research  @due(2024-10-25)
+		- Aiming for 5 researches @opt @priority(low)
+			- 1st literature research @due(2025-03-25)
+			- 2nd literature research @start(2024-10-16) @TBC
+			- 3rd literature research @due(2025-03-24)
+			- 4th literature research @start(2024-10-21)
+			- 5th literature research @due(2024-10-23)
+	- Requirements @due(2025-10-27) @medium
+		- List down software requirements for the project @start(2024-10-25)
+	- Specification and Design @due(2024-11-02) @today @finiSHed
+		- Draw up a high-level overview of architecture of the system @start(2024-10-28)
+		- Decide on algorithms and data structures @start(2024-10-30)
+	- Planning (Gantt Chart) @due(2024-11-09) @finish @priority
+		- Semester 1 detailed planning @start(2024-11-04)
+		- Semester 2 sketch planning @start(2024-11-06)
+	- Conclusion @due(2024-11-13) @today @done
+	- Submission @due(2025-11-22) @priority(high) @TBC
+		- Send to supervisor for proof reading @due(2025-03-22) @dueTmr
+		- Submit @start(2025-11-21)
+	- Semester 2 sketch planning @start(2024-11-06)
+
+Work Load:
+	- Requirements @due(2025-10-27) @done @today
+		- List down software requirements for the project @start(2024-10-25) @Today @done
+	- Specification and Design @due(2025-03-30)
+		- Decide on algorithms and data structures @start(2024-10-30) @Completed
+	- Planning (Gantt Chart) @due(2024-11-09) @low @TBC
+		- Semester 1 detailed planning @due(2025-04-07)
+	- Conclusion @due(2024-11-13) @FinisHed @done
+
+High Task:
+	- Requirements @due(2025-10-27) @done @today
+	- Submit @start(2025-11-21) @due(2025-03-09)
+	- Submission @due(2025-11-22) @priority(high) @due(2025-3-7)
+		- Send to supervisor for proof reading @start(2024-11-15) @Done
+
+More:
+	- Aims & Objectives @today @high @done
+		- Define the purpose @start(2024-10-08)
+		- List down the steps to achieve it @start(2024-10-10)
+	- Literature Survey / Background Research  @due(2024-10-25)
+		- Aiming for 5 researches @opt @priority(low)
+			- 1st literature research @due(2025-03-25)
+			- 2nd literature research @start(2024-10-16) @TBC
+			- 3rd literature research @due(2025-03-24)
+			- 4th literature research @start(2024-10-21)
+			- 5th literature research @due(2024-10-23)
+	- Requirements @due(2025-10-27) @medium
+		- List down software requirements for the project @start(2024-10-25)
+	- Specification and Design @due(2024-11-02) @today @finiSHed
+		- Draw up a high-level overview of architecture of the system @start(2024-10-28)
+		- Decide on algorithms and data structures @start(2024-10-30)
+	- Planning (Gantt Chart) @due(2024-11-09) @finish @priority
+		- Semester 1 detailed planning @start(2024-11-04)
+		- Semester 2 sketch planning @start(2024-11-06)
+	- Conclusion @due(2024-11-13) @today @done
+	- Submission @due(2025-11-22) @priority(high) @TBC
+		- Send to supervisor for proof reading @due(2025-03-22) @dueTmr
+		- Submit @start(2025-11-21)
+	- Semester 2 sketch planning @start(2024-11-06)
+
+Reports:
+	- Requirements @due(2025-10-27) @done @today
+		- List down software requirements for the project @start(2024-10-25) @Today @done
+	- Specification and Design @due(2025-03-30)
+		- Decide on algorithms and data structures @start(2024-10-30) @Completed
+	- Planning (Gantt Chart) @due(2024-11-09) @low @TBC
+		- Semester 1 detailed planning @due(2025-04-07)
+	- Conclusion @due(2024-11-13) @FinisHed @done
+
+TO DO:
+	- Requirements @due(2025-10-27) @done @today
+	- Submit @start(2025-11-21) @due(2025-03-09)
+	- Submission @due(2025-11-22) @priority(high) @due(2025-3-7)
+		- Send to supervisor for proof reading @start(2024-11-15) @Done
+
+One Report:
+	- Aims & Objectives @today @high @done
+		- Define the purpose @start(2024-10-08)
+		- List down the steps to achieve it @start(2024-10-10)
+	- Literature Survey / Background Research  @due(2024-10-25)
+		- Aiming for 5 researches @opt @priority(low)
+			- 1st literature research @due(2025-03-25)
+			- 2nd literature research @start(2024-10-16) @TBC
+			- 3rd literature research @due(2025-03-24)
+			- 4th literature research @start(2024-10-21)
+			- 5th literature research @due(2024-10-23)
+	- Requirements @due(2025-10-27) @medium
+		- List down software requirements for the project @start(2024-10-25)
+	- Specification and Design @due(2024-11-02) @today @finiSHed
+		- Draw up a high-level overview of architecture of the system @start(2024-10-28)
+		- Decide on algorithms and data structures @start(2024-10-30)
+	- Planning (Gantt Chart) @due(2024-11-09) @finish @priority
+		- Semester 1 detailed planning @start(2024-11-04)
+		- Semester 2 sketch planning @start(2024-11-06)
+	- Conclusion @due(2024-11-13) @today @done
+	- Submission @due(2025-11-22) @priority(high) @TBC
+		- Send to supervisor for proof reading @due(2025-03-22) @dueTmr
+		- Submit @start(2025-11-21)
+	- Semester 2 sketch planning @start(2024-11-06)
+
+No Problem:
+	- Requirements @due(2025-10-27) @done @today
+		- List down software requirements for the project @start(2024-10-25) @Today @done
+	- Specification and Design @due(2025-03-30)
+		- Decide on algorithms and data structures @start(2024-10-30) @Completed
+	- Planning (Gantt Chart) @due(2024-11-09) @low @TBC
+		- Semester 1 detailed planning @due(2025-04-07)
+	- Conclusion @due(2024-11-13) @FinisHed @done
+
+No Matter:
+	- Requirements @due(2025-10-27) @done @today
+	- Submit @start(2025-11-21) @due(2025-03-09)
+	- Submission @due(2025-11-22) @priority(high) @due(2025-3-7)
+		- Send to supervisor for proof reading @start(2024-11-15) @Done
+
+Interim Report 2:
+	- Aims & Objectives @today @high @done
+		- Define the purpose @start(2024-10-08)
+		- List down the steps to achieve it @start(2024-10-10)
+	- Literature Survey / Background Research  @due(2024-10-25)
+		- Aiming for 5 researches @opt @priority(low)
+			- 1st literature research @due(2025-03-25)
+			- 2nd literature research @start(2024-10-16) @TBC
+			- 3rd literature research @due(2025-03-24)
+			- 4th literature research @start(2024-10-21)
+			- 5th literature research @due(2024-10-23)
+	- Requirements @due(2025-10-27) @medium
+		- List down software requirements for the project @start(2024-10-25)
+	- Specification and Design @due(2024-11-02) @today @finiSHed
+		- Draw up a high-level overview of architecture of the system @start(2024-10-28)
+		- Decide on algorithms and data structures @start(2024-10-30)
+	- Planning (Gantt Chart) @due(2024-11-09) @finish @priority
+		- Semester 1 detailed planning @start(2024-11-04)
+		- Semester 2 sketch planning @start(2024-11-06)
+	- Conclusion @due(2024-11-13) @today @done
+	- Submission @due(2025-11-22) @priority(high) @TBC
+		- Send to supervisor for proof reading @due(2025-03-22) @dueTmr
+		- Submit @start(2025-11-21)
+	- Semester 2 sketch planning @start(2024-11-06)
+
+Work Report 2:
+	- Requirements @due(2025-10-27) @done @today
+		- List down software requirements for the project @start(2024-10-25) @Today @done
+	- Specification and Design @due(2025-03-30)
+		- Decide on algorithms and data structures @start(2024-10-30) @Completed
+	- Planning (Gantt Chart) @due(2024-11-09) @low @TBC
+		- Semester 1 detailed planning @due(2025-04-07)
+	- Conclusion @due(2024-11-13) @FinisHed @done
+
+Help 2:
+	- Requirements @due(2025-10-27) @done @today
+	- Submit @start(2025-11-21) @due(2025-03-09)
+	- Submission @due(2025-11-22) @priority(high) @due(2025-3-7)
+		- Send to supervisor for proof reading @start(2024-11-15) @Done
+
+Interim 2:
+	- Aims & Objectives @today @high @done
+		- Define the purpose @start(2024-10-08)
+		- List down the steps to achieve it @start(2024-10-10)
+	- Literature Survey / Background Research  @due(2024-10-25)
+		- Aiming for 5 researches @opt @priority(low)
+			- 1st literature research @due(2025-03-25)
+			- 2nd literature research @start(2024-10-16) @TBC
+			- 3rd literature research @due(2025-03-24)
+			- 4th literature research @start(2024-10-21)
+			- 5th literature research @due(2024-10-23)
+	- Requirements @due(2025-10-27) @medium
+		- List down software requirements for the project @start(2024-10-25)
+	- Specification and Design @due(2024-11-02) @today @finiSHed
+		- Draw up a high-level overview of architecture of the system @start(2024-10-28)
+		- Decide on algorithms and data structures @start(2024-10-30)
+	- Planning (Gantt Chart) @due(2024-11-09) @finish @priority
+		- Semester 1 detailed planning @start(2024-11-04)
+		- Semester 2 sketch planning @start(2024-11-06)
+	- Conclusion @due(2024-11-13) @today @done
+	- Submission @due(2025-11-22) @priority(high) @TBC
+		- Send to supervisor for proof reading @due(2025-03-22) @dueTmr
+		- Submit @start(2025-11-21)
+	- Semester 2 sketch planning @start(2024-11-06)
+
+Report 2:
+	- Requirements @due(2025-10-27) @done @today
+		- List down software requirements for the project @start(2024-10-25) @Today @done
+	- Specification and Design @due(2025-03-30)
+		- Decide on algorithms and data structures @start(2024-10-30) @Completed
+	- Planning (Gantt Chart) @due(2024-11-09) @low @TBC
+		- Semester 1 detailed planning @due(2025-04-07)
+	- Conclusion @due(2024-11-13) @FinisHed @done
+
+Hi 2:
+	- Requirements @due(2025-10-27) @done @today
+	- Submit @start(2025-11-21) @due(2025-03-09)
+	- Submission @due(2025-11-22) @priority(high) @due(2025-3-7)
+		- Send to supervisor for proof reading @start(2024-11-15) @Done
+
+Project A 2:
+	- Aims & Objectives @today @high @done
+		- Define the purpose @start(2024-10-08)
+		- List down the steps to achieve it @start(2024-10-10)
+	- Literature Survey / Background Research  @due(2024-10-25)
+		- Aiming for 5 researches @opt @priority(low)
+			- 1st literature research @due(2025-03-25)
+			- 2nd literature research @start(2024-10-16) @TBC
+			- 3rd literature research @due(2025-03-24)
+			- 4th literature research @start(2024-10-21)
+			- 5th literature research @due(2024-10-23)
+	- Requirements @due(2025-10-27) @medium
+		- List down software requirements for the project @start(2024-10-25)
+	- Specification and Design @due(2024-11-02) @today @finiSHed
+		- Draw up a high-level overview of architecture of the system @start(2024-10-28)
+		- Decide on algorithms and data structures @start(2024-10-30)
+	- Planning (Gantt Chart) @due(2024-11-09) @finish @priority
+		- Semester 1 detailed planning @start(2024-11-04)
+		- Semester 2 sketch planning @start(2024-11-06)
+	- Conclusion @due(2024-11-13) @today @done
+	- Submission @due(2025-11-22) @priority(high) @TBC
+		- Send to supervisor for proof reading @due(2025-03-22) @dueTmr
+		- Submit @start(2025-11-21)
+	- Semester 2 sketch planning @start(2024-11-06)
+
+Project B 2:
+	- Requirements @due(2025-10-27) @done @today
+		- List down software requirements for the project @start(2024-10-25) @Today @done
+	- Specification and Design @due(2025-03-30)
+		- Decide on algorithms and data structures @start(2024-10-30) @Completed
+	- Planning (Gantt Chart) @due(2024-11-09) @low @TBC
+		- Semester 1 detailed planning @due(2025-04-07)
+	- Conclusion @due(2024-11-13) @FinisHed @done
+
+Project 2:
+	- Requirements @due(2025-10-27) @done @today
+	- Submit @start(2025-11-21) @due(2025-03-09)
+	- Submission @due(2025-11-22) @priority(high) @due(2025-3-7)
+		- Send to supervisor for proof reading @start(2024-11-15) @Done
+
+A Project 2:
+	- Aims & Objectives @today @high @done
+		- Define the purpose @start(2024-10-08)
+		- List down the steps to achieve it @start(2024-10-10)
+	- Literature Survey / Background Research  @due(2024-10-25)
+		- Aiming for 5 researches @opt @priority(low)
+			- 1st literature research @due(2025-03-25)
+			- 2nd literature research @start(2024-10-16) @TBC
+			- 3rd literature research @due(2025-03-24)
+			- 4th literature research @start(2024-10-21)
+			- 5th literature research @due(2024-10-23)
+	- Requirements @due(2025-10-27) @medium
+		- List down software requirements for the project @start(2024-10-25)
+	- Specification and Design @due(2024-11-02) @today @finiSHed
+		- Draw up a high-level overview of architecture of the system @start(2024-10-28)
+		- Decide on algorithms and data structures @start(2024-10-30)
+	- Planning (Gantt Chart) @due(2024-11-09) @finish @priority
+		- Semester 1 detailed planning @start(2024-11-04)
+		- Semester 2 sketch planning @start(2024-11-06)
+	- Conclusion @due(2024-11-13) @today @done
+	- Submission @due(2025-11-22) @priority(high) @TBC
+		- Send to supervisor for proof reading @due(2025-03-22) @dueTmr
+		- Submit @start(2025-11-21)
+	- Semester 2 sketch planning @start(2024-11-06)
+
+Hello 2:
+	- Requirements @due(2025-10-27) @done @today
+		- List down software requirements for the project @start(2024-10-25) @Today @done
+	- Specification and Design @due(2025-03-30)
+		- Decide on algorithms and data structures @start(2024-10-30) @Completed
+	- Planning (Gantt Chart) @due(2024-11-09) @low @TBC
+		- Semester 1 detailed planning @due(2025-04-07)
+	- Conclusion @due(2024-11-13) @FinisHed @done
+
+World 2:
+	- Requirements @due(2025-10-27) @done @today
+	- Submit @start(2025-11-21) @due(2025-03-09)
+	- Submission @due(2025-11-22) @priority(high) @due(2025-3-7)
+		- Send to supervisor for proof reading @start(2024-11-15) @Done
+
+The Report 2:
+	- Aims & Objectives @today @high @done
+		- Define the purpose @start(2024-10-08)
+		- List down the steps to achieve it @start(2024-10-10)
+	- Literature Survey / Background Research  @due(2024-10-25)
+		- Aiming for 5 researches @opt @priority(low)
+			- 1st literature research @due(2025-03-25)
+			- 2nd literature research @start(2024-10-16) @TBC
+			- 3rd literature research @due(2025-03-24)
+			- 4th literature research @start(2024-10-21)
+			- 5th literature research @due(2024-10-23)
+	- Requirements @due(2025-10-27) @medium
+		- List down software requirements for the project @start(2024-10-25)
+	- Specification and Design @due(2024-11-02) @today @finiSHed
+		- Draw up a high-level overview of architecture of the system @start(2024-10-28)
+		- Decide on algorithms and data structures @start(2024-10-30)
+	- Planning (Gantt Chart) @due(2024-11-09) @finish @priority
+		- Semester 1 detailed planning @start(2024-11-04)
+		- Semester 2 sketch planning @start(2024-11-06)
+	- Conclusion @due(2024-11-13) @today @done
+	- Submission @due(2025-11-22) @priority(high) @TBC
+		- Send to supervisor for proof reading @due(2025-03-22) @dueTmr
+		- Submit @start(2025-11-21)
+	- Semester 2 sketch planning @start(2024-11-06)
+
+Work Load 2:
+	- Requirements @due(2025-10-27) @done @today
+		- List down software requirements for the project @start(2024-10-25) @Today @done
+	- Specification and Design @due(2025-03-30)
+		- Decide on algorithms and data structures @start(2024-10-30) @Completed
+	- Planning (Gantt Chart) @due(2024-11-09) @low @TBC
+		- Semester 1 detailed planning @due(2025-04-07)
+	- Conclusion @due(2024-11-13) @FinisHed @done
+
+High Task 2:
+	- Requirements @due(2025-10-27) @done @today
+	- Submit @start(2025-11-21) @due(2025-03-09)
+	- Submission @due(2025-11-22) @priority(high) @due(2025-3-7)
+		- Send to supervisor for proof reading @start(2024-11-15) @Done
+
+More 2:
+	- Aims & Objectives @today @high @done
+		- Define the purpose @start(2024-10-08)
+		- List down the steps to achieve it @start(2024-10-10)
+	- Literature Survey / Background Research  @due(2024-10-25)
+		- Aiming for 5 researches @opt @priority(low)
+			- 1st literature research @due(2025-03-25)
+			- 2nd literature research @start(2024-10-16) @TBC
+			- 3rd literature research @due(2025-03-24)
+			- 4th literature research @start(2024-10-21)
+			- 5th literature research @due(2024-10-23)
+	- Requirements @due(2025-10-27) @medium
+		- List down software requirements for the project @start(2024-10-25)
+	- Specification and Design @due(2024-11-02) @today @finiSHed
+		- Draw up a high-level overview of architecture of the system @start(2024-10-28)
+		- Decide on algorithms and data structures @start(2024-10-30)
+	- Planning (Gantt Chart) @due(2024-11-09) @finish @priority
+		- Semester 1 detailed planning @start(2024-11-04)
+		- Semester 2 sketch planning @start(2024-11-06)
+	- Conclusion @due(2024-11-13) @today @done
+	- Submission @due(2025-11-22) @priority(high) @TBC
+		- Send to supervisor for proof reading @due(2025-03-22) @dueTmr
+		- Submit @start(2025-11-21)
+	- Semester 2 sketch planning @start(2024-11-06)
+
+Reports 2:
+	- Requirements @due(2025-10-27) @done @today
+		- List down software requirements for the project @start(2024-10-25) @Today @done
+	- Specification and Design @due(2025-03-30)
+		- Decide on algorithms and data structures @start(2024-10-30) @Completed
+	- Planning (Gantt Chart) @due(2024-11-09) @low @TBC
+		- Semester 1 detailed planning @due(2025-04-07)
+	- Conclusion @due(2024-11-13) @FinisHed @done
+
+TO DO 2:
+	- Requirements @due(2025-10-27) @done @today
+	- Submit @start(2025-11-21) @due(2025-03-09)
+	- Submission @due(2025-11-22) @priority(high) @due(2025-3-7)
+		- Send to supervisor for proof reading @start(2024-11-15) @Done
+
+One Report 2:
+	- Aims & Objectives @today @high @done
+		- Define the purpose @start(2024-10-08)
+		- List down the steps to achieve it @start(2024-10-10)
+	- Literature Survey / Background Research  @due(2024-10-25)
+		- Aiming for 5 researches @opt @priority(low)
+			- 1st literature research @due(2025-03-25)
+			- 2nd literature research @start(2024-10-16) @TBC
+			- 3rd literature research @due(2025-03-24)
+			- 4th literature research @start(2024-10-21)
+			- 5th literature research @due(2024-10-23)
+	- Requirements @due(2025-10-27) @medium
+		- List down software requirements for the project @start(2024-10-25)
+	- Specification and Design @due(2024-11-02) @today @finiSHed
+		- Draw up a high-level overview of architecture of the system @start(2024-10-28)
+		- Decide on algorithms and data structures @start(2024-10-30)
+	- Planning (Gantt Chart) @due(2024-11-09) @finish @priority
+		- Semester 1 detailed planning @start(2024-11-04)
+		- Semester 2 sketch planning @start(2024-11-06)
+	- Conclusion @due(2024-11-13) @today @done
+	- Submission @due(2025-11-22) @priority(high) @TBC
+		- Send to supervisor for proof reading @due(2025-03-22) @dueTmr
+		- Submit @start(2025-11-21)
+	- Semester 2 sketch planning @start(2024-11-06)
+
+No Problem 2:
+	- Requirements @due(2025-10-27) @done @today
+		- List down software requirements for the project @start(2024-10-25) @Today @done
+	- Specification and Design @due(2025-03-30)
+		- Decide on algorithms and data structures @start(2024-10-30) @Completed
+	- Planning (Gantt Chart) @due(2024-11-09) @low @TBC
+		- Semester 1 detailed planning @due(2025-04-07)
+	- Conclusion @due(2024-11-13) @FinisHed @done
+
+No Matter 2:
+	- Requirements @due(2025-10-27) @done @today
+	- Submit @start(2025-11-21) @due(2025-03-09)
+	- Submission @due(2025-11-22) @priority(high) @due(2025-3-7)
+		- Send to supervisor for proof reading @start(2024-11-15) @Done
+
+Interim Report 3:
+	- Aims & Objectives @today @high @done
+		- Define the purpose @start(2024-10-08)
+		- List down the steps to achieve it @start(2024-10-10)
+	- Literature Survey / Background Research  @due(2024-10-25)
+		- Aiming for 5 researches @opt @priority(low)
+			- 1st literature research @due(2025-03-25)
+			- 2nd literature research @start(2024-10-16) @TBC
+			- 3rd literature research @due(2025-03-24)
+			- 4th literature research @start(2024-10-21)
+			- 5th literature research @due(2024-10-23)
+	- Requirements @due(2025-10-27) @medium
+		- List down software requirements for the project @start(2024-10-25)
+	- Specification and Design @due(2024-11-02) @today @finiSHed
+		- Draw up a high-level overview of architecture of the system @start(2024-10-28)
+		- Decide on algorithms and data structures @start(2024-10-30)
+	- Planning (Gantt Chart) @due(2024-11-09) @finish @priority
+		- Semester 1 detailed planning @start(2024-11-04)
+		- Semester 2 sketch planning @start(2024-11-06)
+	- Conclusion @due(2024-11-13) @today @done
+	- Submission @due(2025-11-22) @priority(high) @TBC
+		- Send to supervisor for proof reading @due(2025-03-22) @dueTmr
+		- Submit @start(2025-11-21)
+	- Semester 2 sketch planning @start(2024-11-06)
+
+Work Report 3:
+	- Requirements @due(2025-10-27) @done @today
+		- List down software requirements for the project @start(2024-10-25) @Today @done
+	- Specification and Design @due(2025-03-30)
+		- Decide on algorithms and data structures @start(2024-10-30) @Completed
+	- Planning (Gantt Chart) @due(2024-11-09) @low @TBC
+		- Semester 1 detailed planning @due(2025-04-07)
+	- Conclusion @due(2024-11-13) @FinisHed @done
+
+Help 3:
+	- Requirements @due(2025-10-27) @done @today
+	- Submit @start(2025-11-21) @due(2025-03-09)
+	- Submission @due(2025-11-22) @priority(high) @due(2025-3-7)
+		- Send to supervisor for proof reading @start(2024-11-15) @Done
+
+Interim 3:
+	- Aims & Objectives @today @high @done
+		- Define the purpose @start(2024-10-08)
+		- List down the steps to achieve it @start(2024-10-10)
+	- Literature Survey / Background Research  @due(2024-10-25)
+		- Aiming for 5 researches @opt @priority(low)
+			- 1st literature research @due(2025-03-25)
+			- 2nd literature research @start(2024-10-16) @TBC
+			- 3rd literature research @due(2025-03-24)
+			- 4th literature research @start(2024-10-21)
+			- 5th literature research @due(2024-10-23)
+	- Requirements @due(2025-10-27) @medium
+		- List down software requirements for the project @start(2024-10-25)
+	- Specification and Design @due(2024-11-02) @today @finiSHed
+		- Draw up a high-level overview of architecture of the system @start(2024-10-28)
+		- Decide on algorithms and data structures @start(2024-10-30)
+	- Planning (Gantt Chart) @due(2024-11-09) @finish @priority
+		- Semester 1 detailed planning @start(2024-11-04)
+		- Semester 2 sketch planning @start(2024-11-06)
+	- Conclusion @due(2024-11-13) @today @done
+	- Submission @due(2025-11-22) @priority(high) @TBC
+		- Send to supervisor for proof reading @due(2025-03-22) @dueTmr
+		- Submit @start(2025-11-21)
+	- Semester 2 sketch planning @start(2024-11-06)
+
+Report 3:
+	- Requirements @due(2025-10-27) @done @today
+		- List down software requirements for the project @start(2024-10-25) @Today @done
+	- Specification and Design @due(2025-03-30)
+		- Decide on algorithms and data structures @start(2024-10-30) @Completed
+	- Planning (Gantt Chart) @due(2024-11-09) @low @TBC
+		- Semester 1 detailed planning @due(2025-04-07)
+	- Conclusion @due(2024-11-13) @FinisHed @done
+
+Hi 3:
+	- Requirements @due(2025-10-27) @done @today
+	- Submit @start(2025-11-21) @due(2025-03-09)
+	- Submission @due(2025-11-22) @priority(high) @due(2025-3-7)
+		- Send to supervisor for proof reading @start(2024-11-15) @Done
+
+Project A 3:
+	- Aims & Objectives @today @high @done
+		- Define the purpose @start(2024-10-08)
+		- List down the steps to achieve it @start(2024-10-10)
+	- Literature Survey / Background Research  @due(2024-10-25)
+		- Aiming for 5 researches @opt @priority(low)
+			- 1st literature research @due(2025-03-25)
+			- 2nd literature research @start(2024-10-16) @TBC
+			- 3rd literature research @due(2025-03-24)
+			- 4th literature research @start(2024-10-21)
+			- 5th literature research @due(2024-10-23)
+	- Requirements @due(2025-10-27) @medium
+		- List down software requirements for the project @start(2024-10-25)
+	- Specification and Design @due(2024-11-02) @today @finiSHed
+		- Draw up a high-level overview of architecture of the system @start(2024-10-28)
+		- Decide on algorithms and data structures @start(2024-10-30)
+	- Planning (Gantt Chart) @due(2024-11-09) @finish @priority
+		- Semester 1 detailed planning @start(2024-11-04)
+		- Semester 2 sketch planning @start(2024-11-06)
+	- Conclusion @due(2024-11-13) @today @done
+	- Submission @due(2025-11-22) @priority(high) @TBC
+		- Send to supervisor for proof reading @due(2025-03-22) @dueTmr
+		- Submit @start(2025-11-21)
+	- Semester 2 sketch planning @start(2024-11-06)
+
+Project B 3:
+	- Requirements @due(2025-10-27) @done @today
+		- List down software requirements for the project @start(2024-10-25) @Today @done
+	- Specification and Design @due(2025-03-30)
+		- Decide on algorithms and data structures @start(2024-10-30) @Completed
+	- Planning (Gantt Chart) @due(2024-11-09) @low @TBC
+		- Semester 1 detailed planning @due(2025-04-07)
+	- Conclusion @due(2024-11-13) @FinisHed @done
+
+Project 3:
+	- Requirements @due(2025-10-27) @done @today
+	- Submit @start(2025-11-21) @due(2025-03-09)
+	- Submission @due(2025-11-22) @priority(high) @due(2025-3-7)
+		- Send to supervisor for proof reading @start(2024-11-15) @Done
+
+A Project 3:
+	- Aims & Objectives @today @high @done
+		- Define the purpose @start(2024-10-08)
+		- List down the steps to achieve it @start(2024-10-10)
+	- Literature Survey / Background Research  @due(2024-10-25)
+		- Aiming for 5 researches @opt @priority(low)
+			- 1st literature research @due(2025-03-25)
+			- 2nd literature research @start(2024-10-16) @TBC
+			- 3rd literature research @due(2025-03-24)
+			- 4th literature research @start(2024-10-21)
+			- 5th literature research @due(2024-10-23)
+	- Requirements @due(2025-10-27) @medium
+		- List down software requirements for the project @start(2024-10-25)
+	- Specification and Design @due(2024-11-02) @today @finiSHed
+		- Draw up a high-level overview of architecture of the system @start(2024-10-28)
+		- Decide on algorithms and data structures @start(2024-10-30)
+	- Planning (Gantt Chart) @due(2024-11-09) @finish @priority
+		- Semester 1 detailed planning @start(2024-11-04)
+		- Semester 2 sketch planning @start(2024-11-06)
+	- Conclusion @due(2024-11-13) @today @done
+	- Submission @due(2025-11-22) @priority(high) @TBC
+		- Send to supervisor for proof reading @due(2025-03-22) @dueTmr
+		- Submit @start(2025-11-21)
+	- Semester 2 sketch planning @start(2024-11-06)
+
+Hello 3:
+	- Requirements @due(2025-10-27) @done @today
+		- List down software requirements for the project @start(2024-10-25) @Today @done
+	- Specification and Design @due(2025-03-30)
+		- Decide on algorithms and data structures @start(2024-10-30) @Completed
+	- Planning (Gantt Chart) @due(2024-11-09) @low @TBC
+		- Semester 1 detailed planning @due(2025-04-07)
+	- Conclusion @due(2024-11-13) @FinisHed @done
+
+World 3:
+	- Requirements @due(2025-10-27) @done @today
+	- Submit @start(2025-11-21) @due(2025-03-09)
+	- Submission @due(2025-11-22) @priority(high) @due(2025-3-7)
+		- Send to supervisor for proof reading @start(2024-11-15) @Done
+
+The Report 3:
+	- Aims & Objectives @today @high @done
+		- Define the purpose @start(2024-10-08)
+		- List down the steps to achieve it @start(2024-10-10)
+	- Literature Survey / Background Research  @due(2024-10-25)
+		- Aiming for 5 researches @opt @priority(low)
+			- 1st literature research @due(2025-03-25)
+			- 2nd literature research @start(2024-10-16) @TBC
+			- 3rd literature research @due(2025-03-24)
+			- 4th literature research @start(2024-10-21)
+			- 5th literature research @due(2024-10-23)
+	- Requirements @due(2025-10-27) @medium
+		- List down software requirements for the project @start(2024-10-25)
+	- Specification and Design @due(2024-11-02) @today @finiSHed
+		- Draw up a high-level overview of architecture of the system @start(2024-10-28)
+		- Decide on algorithms and data structures @start(2024-10-30)
+	- Planning (Gantt Chart) @due(2024-11-09) @finish @priority
+		- Semester 1 detailed planning @start(2024-11-04)
+		- Semester 2 sketch planning @start(2024-11-06)
+	- Conclusion @due(2024-11-13) @today @done
+	- Submission @due(2025-11-22) @priority(high) @TBC
+		- Send to supervisor for proof reading @due(2025-03-22) @dueTmr
+		- Submit @start(2025-11-21)
+	- Semester 2 sketch planning @start(2024-11-06)
+
+Work Load 3:
+	- Requirements @due(2025-10-27) @done @today
+		- List down software requirements for the project @start(2024-10-25) @Today @done
+	- Specification and Design @due(2025-03-30)
+		- Decide on algorithms and data structures @start(2024-10-30) @Completed
+	- Planning (Gantt Chart) @due(2024-11-09) @low @TBC
+		- Semester 1 detailed planning @due(2025-04-07)
+	- Conclusion @due(2024-11-13) @FinisHed @done
+
+High Task 3:
+	- Requirements @due(2025-10-27) @done @today
+	- Submit @start(2025-11-21) @due(2025-03-09)
+	- Submission @due(2025-11-22) @priority(high) @due(2025-3-7)
+		- Send to supervisor for proof reading @start(2024-11-15) @Done
+
+More 3:
+	- Aims & Objectives @today @high @done
+		- Define the purpose @start(2024-10-08)
+		- List down the steps to achieve it @start(2024-10-10)
+	- Literature Survey / Background Research  @due(2024-10-25)
+		- Aiming for 5 researches @opt @priority(low)
+			- 1st literature research @due(2025-03-25)
+			- 2nd literature research @start(2024-10-16) @TBC
+			- 3rd literature research @due(2025-03-24)
+			- 4th literature research @start(2024-10-21)
+			- 5th literature research @due(2024-10-23)
+	- Requirements @due(2025-10-27) @medium
+		- List down software requirements for the project @start(2024-10-25)
+	- Specification and Design @due(2024-11-02) @today @finiSHed
+		- Draw up a high-level overview of architecture of the system @start(2024-10-28)
+		- Decide on algorithms and data structures @start(2024-10-30)
+	- Planning (Gantt Chart) @due(2024-11-09) @finish @priority
+		- Semester 1 detailed planning @start(2024-11-04)
+		- Semester 2 sketch planning @start(2024-11-06)
+	- Conclusion @due(2024-11-13) @today @done
+	- Submission @due(2025-11-22) @priority(high) @TBC
+		- Send to supervisor for proof reading @due(2025-03-22) @dueTmr
+		- Submit @start(2025-11-21)
+	- Semester 2 sketch planning @start(2024-11-06)
+
+Reports 3:
+	- Requirements @due(2025-10-27) @done @today
+		- List down software requirements for the project @start(2024-10-25) @Today @done
+	- Specification and Design @due(2025-03-30)
+		- Decide on algorithms and data structures @start(2024-10-30) @Completed
+	- Planning (Gantt Chart) @due(2024-11-09) @low @TBC
+		- Semester 1 detailed planning @due(2025-04-07)
+	- Conclusion @due(2024-11-13) @FinisHed @done
+
+TO DO 3:
+	- Requirements @due(2025-10-27) @done @today
+	- Submit @start(2025-11-21) @due(2025-03-09)
+	- Submission @due(2025-11-22) @priority(high) @due(2025-3-7)
+		- Send to supervisor for proof reading @start(2024-11-15) @Done
+
+One Report 3:
+	- Aims & Objectives @today @high @done
+		- Define the purpose @start(2024-10-08)
+		- List down the steps to achieve it @start(2024-10-10)
+	- Literature Survey / Background Research  @due(2024-10-25)
+		- Aiming for 5 researches @opt @priority(low)
+			- 1st literature research @due(2025-03-25)
+			- 2nd literature research @start(2024-10-16) @TBC
+			- 3rd literature research @due(2025-03-24)
+			- 4th literature research @start(2024-10-21)
+			- 5th literature research @due(2024-10-23)
+	- Requirements @due(2025-10-27) @medium
+		- List down software requirements for the project @start(2024-10-25)
+	- Specification and Design @due(2024-11-02) @today @finiSHed
+		- Draw up a high-level overview of architecture of the system @start(2024-10-28)
+		- Decide on algorithms and data structures @start(2024-10-30)
+	- Planning (Gantt Chart) @due(2024-11-09) @finish @priority
+		- Semester 1 detailed planning @start(2024-11-04)
+		- Semester 2 sketch planning @start(2024-11-06)
+	- Conclusion @due(2024-11-13) @today @done
+	- Submission @due(2025-11-22) @priority(high) @TBC
+		- Send to supervisor for proof reading @due(2025-03-22) @dueTmr
+		- Submit @start(2025-11-21)
+	- Semester 2 sketch planning @start(2024-11-06)
+
+No Problem 3:
+	- Requirements @due(2025-10-27) @done @today
+		- List down software requirements for the project @start(2024-10-25) @Today @done
+	- Specification and Design @due(2025-03-30)
+		- Decide on algorithms and data structures @start(2024-10-30) @Completed
+	- Planning (Gantt Chart) @due(2024-11-09) @low @TBC
+		- Semester 1 detailed planning @due(2025-04-07)
+	- Conclusion @due(2024-11-13) @FinisHed @done
+
+No Matter 3:
+	- Requirements @due(2025-10-27) @done @today
+	- Submit @start(2025-11-21) @due(2025-03-09)
+	- Submission @due(2025-11-22) @priority(high) @due(2025-3-7)
+		- Send to supervisor for proof reading @start(2024-11-15) @Done
+
+Interim Report 4:
+	- Aims & Objectives @today @high @done
+		- Define the purpose @start(2024-10-08)
+		- List down the steps to achieve it @start(2024-10-10)
+	- Literature Survey / Background Research  @due(2024-10-25)
+		- Aiming for 5 researches @opt @priority(low)
+			- 1st literature research @due(2025-03-25)
+			- 2nd literature research @start(2024-10-16) @TBC
+			- 3rd literature research @due(2025-03-24)
+			- 4th literature research @start(2024-10-21)
+			- 5th literature research @due(2024-10-23)
+	- Requirements @due(2025-10-27) @medium
+		- List down software requirements for the project @start(2024-10-25)
+	- Specification and Design @due(2024-11-02) @today @finiSHed
+		- Draw up a high-level overview of architecture of the system @start(2024-10-28)
+		- Decide on algorithms and data structures @start(2024-10-30)
+	- Planning (Gantt Chart) @due(2024-11-09) @finish @priority
+		- Semester 1 detailed planning @start(2024-11-04)
+		- Semester 2 sketch planning @start(2024-11-06)
+	- Conclusion @due(2024-11-13) @today @done
+	- Submission @due(2025-11-22) @priority(high) @TBC
+		- Send to supervisor for proof reading @due(2025-03-22) @dueTmr
+		- Submit @start(2025-11-21)
+	- Semester 2 sketch planning @start(2024-11-06)
+
+Work Report 4:
+	- Requirements @due(2025-10-27) @done @today
+		- List down software requirements for the project @start(2024-10-25) @Today @done
+	- Specification and Design @due(2025-03-30)
+		- Decide on algorithms and data structures @start(2024-10-30) @Completed
+	- Planning (Gantt Chart) @due(2024-11-09) @low @TBC
+		- Semester 1 detailed planning @due(2025-04-07)
+	- Conclusion @due(2024-11-13) @FinisHed @done
+
+Help 4:
+	- Requirements @due(2025-10-27) @done @today
+	- Submit @start(2025-11-21) @due(2025-03-09)
+	- Submission @due(2025-11-22) @priority(high) @due(2025-3-7)
+		- Send to supervisor for proof reading @start(2024-11-15) @Done
+
+Interim 4:
+	- Aims & Objectives @today @high @done
+		- Define the purpose @start(2024-10-08)
+		- List down the steps to achieve it @start(2024-10-10)
+	- Literature Survey / Background Research  @due(2024-10-25)
+		- Aiming for 5 researches @opt @priority(low)
+			- 1st literature research @due(2025-03-25)
+			- 2nd literature research @start(2024-10-16) @TBC
+			- 3rd literature research @due(2025-03-24)
+			- 4th literature research @start(2024-10-21)
+			- 5th literature research @due(2024-10-23)
+	- Requirements @due(2025-10-27) @medium
+		- List down software requirements for the project @start(2024-10-25)
+	- Specification and Design @due(2024-11-02) @today @finiSHed
+		- Draw up a high-level overview of architecture of the system @start(2024-10-28)
+		- Decide on algorithms and data structures @start(2024-10-30)
+	- Planning (Gantt Chart) @due(2024-11-09) @finish @priority
+		- Semester 1 detailed planning @start(2024-11-04)
+		- Semester 2 sketch planning @start(2024-11-06)
+	- Conclusion @due(2024-11-13) @today @done
+	- Submission @due(2025-11-22) @priority(high) @TBC
+		- Send to supervisor for proof reading @due(2025-03-22) @dueTmr
+		- Submit @start(2025-11-21)
+	- Semester 2 sketch planning @start(2024-11-06)
+
+Report 4:
+	- Requirements @due(2025-10-27) @done @today
+		- List down software requirements for the project @start(2024-10-25) @Today @done
+	- Specification and Design @due(2025-03-30)
+		- Decide on algorithms and data structures @start(2024-10-30) @Completed
+	- Planning (Gantt Chart) @due(2024-11-09) @low @TBC
+		- Semester 1 detailed planning @due(2025-04-07)
+	- Conclusion @due(2024-11-13) @FinisHed @done
+
+Hi 4:
+	- Requirements @due(2025-10-27) @done @today
+	- Submit @start(2025-11-21) @due(2025-03-09)
+	- Submission @due(2025-11-22) @priority(high) @due(2025-3-7)
+		- Send to supervisor for proof reading @start(2024-11-15) @Done
+
+Project A 4:
+	- Aims & Objectives @today @high @done
+		- Define the purpose @start(2024-10-08)
+		- List down the steps to achieve it @start(2024-10-10)
+	- Literature Survey / Background Research  @due(2024-10-25)
+		- Aiming for 5 researches @opt @priority(low)
+			- 1st literature research @due(2025-03-25)
+			- 2nd literature research @start(2024-10-16) @TBC
+			- 3rd literature research @due(2025-03-24)
+			- 4th literature research @start(2024-10-21)
+			- 5th literature research @due(2024-10-23)
+	- Requirements @due(2025-10-27) @medium
+		- List down software requirements for the project @start(2024-10-25)
+	- Specification and Design @due(2024-11-02) @today @finiSHed
+		- Draw up a high-level overview of architecture of the system @start(2024-10-28)
+		- Decide on algorithms and data structures @start(2024-10-30)
+	- Planning (Gantt Chart) @due(2024-11-09) @finish @priority
+		- Semester 1 detailed planning @start(2024-11-04)
+		- Semester 2 sketch planning @start(2024-11-06)
+	- Conclusion @due(2024-11-13) @today @done
+	- Submission @due(2025-11-22) @priority(high) @TBC
+		- Send to supervisor for proof reading @due(2025-03-22) @dueTmr
+		- Submit @start(2025-11-21)
+	- Semester 2 sketch planning @start(2024-11-06)
+
+Project B 4:
+	- Requirements @due(2025-10-27) @done @today
+		- List down software requirements for the project @start(2024-10-25) @Today @done
+	- Specification and Design @due(2025-03-30)
+		- Decide on algorithms and data structures @start(2024-10-30) @Completed
+	- Planning (Gantt Chart) @due(2024-11-09) @low @TBC
+		- Semester 1 detailed planning @due(2025-04-07)
+	- Conclusion @due(2024-11-13) @FinisHed @done
+
+Project 4:
+	- Requirements @due(2025-10-27) @done @today
+	- Submit @start(2025-11-21) @due(2025-03-09)
+	- Submission @due(2025-11-22) @priority(high) @due(2025-3-7)
+		- Send to supervisor for proof reading @start(2024-11-15) @Done
+
+A Project 4:
+	- Aims & Objectives @today @high @done
+		- Define the purpose @start(2024-10-08)
+		- List down the steps to achieve it @start(2024-10-10)
+	- Literature Survey / Background Research  @due(2024-10-25)
+		- Aiming for 5 researches @opt @priority(low)
+			- 1st literature research @due(2025-03-25)
+			- 2nd literature research @start(2024-10-16) @TBC
+			- 3rd literature research @due(2025-03-24)
+			- 4th literature research @start(2024-10-21)
+			- 5th literature research @due(2024-10-23)
+	- Requirements @due(2025-10-27) @medium
+		- List down software requirements for the project @start(2024-10-25)
+	- Specification and Design @due(2024-11-02) @today @finiSHed
+		- Draw up a high-level overview of architecture of the system @start(2024-10-28)
+		- Decide on algorithms and data structures @start(2024-10-30)
+	- Planning (Gantt Chart) @due(2024-11-09) @finish @priority
+		- Semester 1 detailed planning @start(2024-11-04)
+		- Semester 2 sketch planning @start(2024-11-06)
+	- Conclusion @due(2024-11-13) @today @done
+	- Submission @due(2025-11-22) @priority(high) @TBC
+		- Send to supervisor for proof reading @due(2025-03-22) @dueTmr
+		- Submit @start(2025-11-21)
+	- Semester 2 sketch planning @start(2024-11-06)
+
+Hello 4:
+	- Requirements @due(2025-10-27) @done @today
+		- List down software requirements for the project @start(2024-10-25) @Today @done
+	- Specification and Design @due(2025-03-30)
+		- Decide on algorithms and data structures @start(2024-10-30) @Completed
+	- Planning (Gantt Chart) @due(2024-11-09) @low @TBC
+		- Semester 1 detailed planning @due(2025-04-07)
+	- Conclusion @due(2024-11-13) @FinisHed @done
+
+World 4:
+	- Requirements @due(2025-10-27) @done @today
+	- Submit @start(2025-11-21) @due(2025-03-09)
+	- Submission @due(2025-11-22) @priority(high) @due(2025-3-7)
+		- Send to supervisor for proof reading @start(2024-11-15) @Done
+
+The Report 4:
+	- Aims & Objectives @today @high @done
+		- Define the purpose @start(2024-10-08)
+		- List down the steps to achieve it @start(2024-10-10)
+	- Literature Survey / Background Research  @due(2024-10-25)
+		- Aiming for 5 researches @opt @priority(low)
+			- 1st literature research @due(2025-03-25)
+			- 2nd literature research @start(2024-10-16) @TBC
+			- 3rd literature research @due(2025-03-24)
+			- 4th literature research @start(2024-10-21)
+			- 5th literature research @due(2024-10-23)
+	- Requirements @due(2025-10-27) @medium
+		- List down software requirements for the project @start(2024-10-25)
+	- Specification and Design @due(2024-11-02) @today @finiSHed
+		- Draw up a high-level overview of architecture of the system @start(2024-10-28)
+		- Decide on algorithms and data structures @start(2024-10-30)
+	- Planning (Gantt Chart) @due(2024-11-09) @finish @priority
+		- Semester 1 detailed planning @start(2024-11-04)
+		- Semester 2 sketch planning @start(2024-11-06)
+	- Conclusion @due(2024-11-13) @today @done
+	- Submission @due(2025-11-22) @priority(high) @TBC
+		- Send to supervisor for proof reading @due(2025-03-22) @dueTmr
+		- Submit @start(2025-11-21)
+	- Semester 2 sketch planning @start(2024-11-06)
+
+Work Load 4:
+	- Requirements @due(2025-10-27) @done @today
+		- List down software requirements for the project @start(2024-10-25) @Today @done
+	- Specification and Design @due(2025-03-30)
+		- Decide on algorithms and data structures @start(2024-10-30) @Completed
+	- Planning (Gantt Chart) @due(2024-11-09) @low @TBC
+		- Semester 1 detailed planning @due(2025-04-07)
+	- Conclusion @due(2024-11-13) @FinisHed @done
+
+High Task 4:
+	- Requirements @due(2025-10-27) @done @today
+	- Submit @start(2025-11-21) @due(2025-03-09)
+	- Submission @due(2025-11-22) @priority(high) @due(2025-3-7)
+		- Send to supervisor for proof reading @start(2024-11-15) @Done
+
+More 4:
+	- Aims & Objectives @today @high @done
+		- Define the purpose @start(2024-10-08)
+		- List down the steps to achieve it @start(2024-10-10)
+	- Literature Survey / Background Research  @due(2024-10-25)
+		- Aiming for 5 researches @opt @priority(low)
+			- 1st literature research @due(2025-03-25)
+			- 2nd literature research @start(2024-10-16) @TBC
+			- 3rd literature research @due(2025-03-24)
+			- 4th literature research @start(2024-10-21)
+			- 5th literature research @due(2024-10-23)
+	- Requirements @due(2025-10-27) @medium
+		- List down software requirements for the project @start(2024-10-25)
+	- Specification and Design @due(2024-11-02) @today @finiSHed
+		- Draw up a high-level overview of architecture of the system @start(2024-10-28)
+		- Decide on algorithms and data structures @start(2024-10-30)
+	- Planning (Gantt Chart) @due(2024-11-09) @finish @priority
+		- Semester 1 detailed planning @start(2024-11-04)
+		- Semester 2 sketch planning @start(2024-11-06)
+	- Conclusion @due(2024-11-13) @today @done
+	- Submission @due(2025-11-22) @priority(high) @TBC
+		- Send to supervisor for proof reading @due(2025-03-22) @dueTmr
+		- Submit @start(2025-11-21)
+	- Semester 2 sketch planning @start(2024-11-06)
+
+Reports 4:
+	- Requirements @due(2025-10-27) @done @today
+		- List down software requirements for the project @start(2024-10-25) @Today @done
+	- Specification and Design @due(2025-03-30)
+		- Decide on algorithms and data structures @start(2024-10-30) @Completed
+	- Planning (Gantt Chart) @due(2024-11-09) @low @TBC
+		- Semester 1 detailed planning @due(2025-04-07)
+	- Conclusion @due(2024-11-13) @FinisHed @done
+
+TO DO 4:
+	- Requirements @due(2025-10-27) @done @today
+	- Submit @start(2025-11-21) @due(2025-03-09)
+	- Submission @due(2025-11-22) @priority(high) @due(2025-3-7)
+		- Send to supervisor for proof reading @start(2024-11-15) @Done
+
+One Report 4:
+	- Aims & Objectives @today @high @done
+		- Define the purpose @start(2024-10-08)
+		- List down the steps to achieve it @start(2024-10-10)
+	- Literature Survey / Background Research  @due(2024-10-25)
+		- Aiming for 5 researches @opt @priority(low)
+			- 1st literature research @due(2025-03-25)
+			- 2nd literature research @start(2024-10-16) @TBC
+			- 3rd literature research @due(2025-03-24)
+			- 4th literature research @start(2024-10-21)
+			- 5th literature research @due(2024-10-23)
+	- Requirements @due(2025-10-27) @medium
+		- List down software requirements for the project @start(2024-10-25)
+	- Specification and Design @due(2024-11-02) @today @finiSHed
+		- Draw up a high-level overview of architecture of the system @start(2024-10-28)
+		- Decide on algorithms and data structures @start(2024-10-30)
+	- Planning (Gantt Chart) @due(2024-11-09) @finish @priority
+		- Semester 1 detailed planning @start(2024-11-04)
+		- Semester 2 sketch planning @start(2024-11-06)
+	- Conclusion @due(2024-11-13) @today @done
+	- Submission @due(2025-11-22) @priority(high) @TBC
+		- Send to supervisor for proof reading @due(2025-03-22) @dueTmr
+		- Submit @start(2025-11-21)
+	- Semester 2 sketch planning @start(2024-11-06)
+
+No Problem 4:
+	- Requirements @due(2025-10-27) @done @today
+		- List down software requirements for the project @start(2024-10-25) @Today @done
+	- Specification and Design @due(2025-03-30)
+		- Decide on algorithms and data structures @start(2024-10-30) @Completed
+	- Planning (Gantt Chart) @due(2024-11-09) @low @TBC
+		- Semester 1 detailed planning @due(2025-04-07)
+	- Conclusion @due(2024-11-13) @FinisHed @done
+
+No Matter 4:
+	- Requirements @due(2025-10-27) @done @today
+	- Submit @start(2025-11-21) @due(2025-03-09)
+	- Submission @due(2025-11-22) @priority(high) @due(2025-3-7)
+		- Send to supervisor for proof reading @start(2024-11-15) @Done

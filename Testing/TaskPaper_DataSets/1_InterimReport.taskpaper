@@ -1,0 +1,23 @@
+Interim Report:
+	- Aims & Objectives @due(2024-10-12)
+		- Define the purpose @start(2024-10-08)
+		- List down the steps to achieve it @start(2024-10-10)
+	- Literature Survey / Background Research @due(2024-10-25)
+		- Aiming for 5 researches @optional
+			- 1st literature research @start(2024-10-14)
+			- 2nd literature research @start(2024-10-16)
+			- 3rd literature research @start(2024-10-18)
+			- 4th literature research @start(2024-10-21)
+			- 5th literature research @start(2024-10-23)
+	- Requirements @due(2024-10-27)
+		- List down software requirements for the project @start(2024-10-25)
+	- Specification and Design @due(2024-11-02)
+		- Draw up a high-level overview of architecture of the system @start(2024-10-28)
+		- Decide on algorithms and data structures @start(2024-10-30)
+	- Planning (Gantt Chart) @due(2024-11-09)
+		- Semester 1 detailed planning @start(2024-11-04)
+		- Semester 2 sketch planning @start(2024-11-06)
+	- Conclusion @due(2024-11-13) @optional
+	- Submission @due(2024-11-22) @priority(high)
+		- Send to supervisor for proof reading @start(2024-11-15)
+		- Submit @start(2024-11-21)

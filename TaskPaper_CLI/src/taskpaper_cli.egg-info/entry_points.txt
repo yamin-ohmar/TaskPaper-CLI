@@ -1,0 +1,2 @@
+[console_scripts]
+TaskPaper = cli.main:main

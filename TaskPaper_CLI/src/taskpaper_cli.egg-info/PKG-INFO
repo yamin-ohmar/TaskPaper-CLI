@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: taskpaper-cli
+Version: 1.0.0
+Requires-Python: >=3.10
+Requires-Dist: termcolor
+Requires-Dist: tabulate
+Dynamic: requires-dist
+Dynamic: requires-python
